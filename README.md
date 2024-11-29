@@ -14,3 +14,5 @@ This sample demonstrates a tiny Hello World HTML app for [App Service](https://d
 # Contributing
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+[![Build Status](https://dev.azure.com/Fallahizahra123/WEBAPP/_apis/build/status%2FWEBAPP?branchName=master)](https://dev.azure.com/Fallahizahra123/WEBAPP/_build/latest?definitionId=15&branchName=master)
